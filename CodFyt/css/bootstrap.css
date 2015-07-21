@@ -186,14 +186,7 @@ textarea {
 optgroup {
   font-weight: bold;
 }
-table {
-  border-spacing: 0;
-  border-collapse: collapse;
-}
-td,
-th {
-  padding: 0;
-}
+
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
@@ -2258,22 +2251,36 @@ pre code {
   }
 }
 table {
-  background-color: transparent;
+  background-color: white;
+  font-size: 20px
+  
+  
 }
 caption {
   padding-top: 8px;
   padding-bottom: 8px;
   color: #777;
-  text-align: left;
+  text-align: center;
 }
 th {
-  text-align: left;
+  text-align: center;
 }
 .table {
-  width: 100%;
+  width: 50%;
   max-width: 100%;
   margin-bottom: 20px;
+  margin: 1em 0;
+  min-width: 300px;
+  
 }
+tr {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+  }
+th {
+    display: none;  
+  }
+
 .table > thead > tr > th,
 .table > tbody > tr > th,
 .table > tfoot > tr > th,
@@ -6368,7 +6375,5 @@ body {
 	background: #27AE60;
 	color: white;
 }
-
-
 
 

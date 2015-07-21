@@ -128,7 +128,7 @@ header {
 	background-size:cover;
 	position: relative;
 	overflow: hidden;
-	height: 400px;
+	height: 500px;
 }
 
 header.container {
@@ -198,7 +198,7 @@ header .intro-text {
 		margin:10px 20px;
 	}
 	.navbar-default .navbar-nav {
-		padding-top:10px;
+		padding-top:30px;
 	}
 }
 

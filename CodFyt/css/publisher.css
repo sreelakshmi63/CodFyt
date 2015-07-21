@@ -124,11 +124,11 @@ p.small {
 }
 
 header {
-	background: url('../img/plain.jpeg') no-repeat center center;
+	background: url('../img/new.jpg') no-repeat center center;
 	background-size:cover;
 	position: relative;
 	overflow: hidden;
-	height: 400px;
+	height: 500px;
 }
 
 header.container {
