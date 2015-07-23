@@ -6237,6 +6237,7 @@ body {
 	margin: 50px auto;
 	text-align: center;
 	position: relative;
+	
 }
 #msform fieldset {
 	background: white;
@@ -6248,6 +6249,7 @@ body {
 	box-sizing: border-box;
 	width: 80%;
 	margin: 0 10%;
+	position: left;
 	
 	/*stacking fieldsets above each other*/
 	position: absolute;
