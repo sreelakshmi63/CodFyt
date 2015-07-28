@@ -426,7 +426,8 @@ section.reviews {
 }
 
 .owl-reviews .owl-controls {
-	position: absolute;
+	position: both;
+	center:both;
 	width:100%;
 	top:calc(50% - 30px);
 }

@@ -2259,7 +2259,7 @@ table {
 caption {
   padding-top: 8px;
   padding-bottom: 8px;
-  color: #777;
+  color: red;
   text-align: center;
 }
 th {
@@ -6236,7 +6236,7 @@ body {
 	width: 400px;
 	margin: 50px auto;
 	text-align: center;
-	position: left;
+	position: relative;
 	
 }
 #msform fieldset {
@@ -6249,6 +6249,7 @@ body {
 	box-sizing: border-box;
 	width: 80%;
 	margin: 0 10%;
+	position: left;
 	
 	/*stacking fieldsets above each other*/
 	position: absolute;

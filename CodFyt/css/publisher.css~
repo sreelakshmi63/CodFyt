@@ -124,7 +124,7 @@ p.small {
 }
 
 header {
-	background: url('../img/plain.jpeg') no-repeat center center;
+	background: url('../img/new.jpg') no-repeat center center;
 	background-size:cover;
 	position: relative;
 	overflow: hidden;
@@ -427,6 +427,7 @@ section.reviews {
 
 .owl-reviews .owl-controls {
 	position: absolute;
+	center:both;
 	width:100%;
 	top:calc(50% - 30px);
 }

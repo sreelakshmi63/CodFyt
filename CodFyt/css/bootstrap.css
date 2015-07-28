@@ -13,6 +13,15 @@ html {
 body {
   margin: 0;
 }
+
+nnnn{
+  line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+}	
 article,
 aside,
 details,
@@ -2259,7 +2268,7 @@ table {
 caption {
   padding-top: 8px;
   padding-bottom: 8px;
-  color: #777;
+  color: red;
   text-align: center;
 }
 th {
